@@ -19,7 +19,7 @@ En este ejercicio trabajaremos con la el principio de polimorfismo.
 - Creación de una clase RACE que al crearla se cree un peloton de vehiculos y que estos
   aceleren todos  juntos a la misma vez., trabajaremos la clase y metodos en abstract.
 
-
+_____________________________________________________________________________
 ## Autor y Agradecimiento
 
 |                                                                                  **Miguel Reyes**                                                                                    |

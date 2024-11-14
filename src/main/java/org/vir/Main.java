@@ -10,20 +10,3 @@ public class Main {
         carrera.starRace();
     }
 }
-
-
-/*
-        //polimorfismo: un metodo que hace start() a una carrera de vehiculos-> todos los vehiculos empiezan a acelerar
-        List<Vehicle> peloton = List.of(new Car( marca:"BMW" ), new truck( marca: "volvo" ), new motorbike( marca:"honda" ));
-        starRace(peloton);
-
-        public static void starRace(List<Vehicle>peloton){
-            for (Vehicle vehicle : peloton){
-                vehicle.accelerar();
-                System.out.println(vehicle);
-            }
-        }*/
-
-
-
-

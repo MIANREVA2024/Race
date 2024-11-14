@@ -13,16 +13,4 @@ public abstract class Vehicle {
 
     public abstract void acelerar();
 
-
-
-    /*metodos
-
-    public String getMarca() {
-        return marca;    }
-
-    public int getVelocity() {
-        return velocity;    }
-
-    public int getWheels() {
-        return wheels;    }*/
 }
